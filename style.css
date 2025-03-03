@@ -37,7 +37,7 @@ input {
 }
 
 button {
-    background-color: #4CAF50;
+    background: linear-gradient(135deg, #ffa07a 0%, #ff8c00 100%);
     color: white;
     padding: 0.8rem;
     border: none;
@@ -48,7 +48,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background: linear-gradient(135deg, #ff9900 0%, #ff6600 100%);
 }
 
 #message {
